@@ -1,7 +1,7 @@
 
 # Adult and Child Tracker In Video
 
-This project aims to build a person detector (specifically, only, child and adult) along with a tracking approach, to assign unique IDs to persons, and track them throughout the video. The proposed method should be able to:
+This project aims to build a person detector (specifically, only, child and adult("Therapist")) along with a tracking approach, to assign unique IDs to persons, and track them throughout the video. The proposed method should be able to:
 
 Assign Unique IDs: The aim is to assign unique IDs to persons and track them throughout the video.
 
